@@ -1,0 +1,38 @@
+<svg width="800" height="480" viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="管理控制台截图示意图">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1f2937"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" fill="url(#bg)" rx="24"/>
+  <rect x="40" y="36" width="720" height="52" rx="12" fill="#111827" stroke="#334155" stroke-width="2"/>
+  <text x="60" y="70" fill="#f8fafc" font-family="Inter, sans-serif" font-size="20" font-weight="700">WhitelistSet 管理控制台</text>
+
+  <rect x="40" y="108" width="240" height="324" rx="16" fill="#111827" stroke="#334155" stroke-width="2"/>
+  <text x="60" y="140" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="16" font-weight="600">导航</text>
+  <rect x="60" y="160" width="200" height="36" rx="10" fill="#1e293b"/>
+  <rect x="60" y="210" width="200" height="36" rx="10" fill="#1e293b"/>
+  <rect x="60" y="260" width="200" height="36" rx="10" fill="#1e293b"/>
+  <rect x="60" y="310" width="200" height="36" rx="10" fill="#1e293b"/>
+
+  <rect x="304" y="108" width="456" height="324" rx="16" fill="#111827" stroke="#334155" stroke-width="2"/>
+  <text x="326" y="140" fill="#f8fafc" font-family="Inter, sans-serif" font-size="18" font-weight="700">服务器状态</text>
+  <rect x="326" y="160" width="160" height="28" rx="8" fill="#0f766e"/>
+  <text x="340" y="178" fill="#ecfccb" font-family="Inter, sans-serif" font-size="12">已连接</text>
+
+  <rect x="326" y="200" width="420" height="40" rx="10" fill="#1e293b"/>
+  <text x="340" y="226" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="14">白名单玩家</text>
+  <rect x="336" y="238" width="396" height="4" fill="#334155"/>
+
+  <rect x="326" y="250" width="420" height="36" rx="10" fill="#0f172a"/>
+  <text x="340" y="274" fill="#f8fafc" font-family="Inter, sans-serif" font-size="13">player1</text>
+  <rect x="326" y="294" width="420" height="36" rx="10" fill="#0f172a"/>
+  <text x="340" y="318" fill="#f8fafc" font-family="Inter, sans-serif" font-size="13">player2</text>
+
+  <rect x="326" y="340" width="420" height="90" rx="10" fill="#1e293b"/>
+  <text x="340" y="364" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="14">申请列表</text>
+  <rect x="340" y="380" width="396" height="16" rx="8" fill="#334155"/>
+  <text x="340" y="398" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="12">申请人：player3 · 状态：待处理</text>
+  <text x="340" y="420" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="12">申请人：player4 · 状态：已批准</text>
+</svg>

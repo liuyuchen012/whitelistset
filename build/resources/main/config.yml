@@ -1,0 +1,11 @@
+admin-port: 8080
+apply-port: 8081
+password: "admin123"
+whitelist-apply:
+  enabled: false
+email:
+  host: "smtp.qq.com"
+  port: 587
+  username: ""
+  password: ""
+  use-ssl: true
