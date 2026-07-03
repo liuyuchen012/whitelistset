@@ -1,0 +1,7 @@
+name: WhitelistSet
+version: '${version}'
+main: com.mc615.whitelistset.whitelistset.Whitelistset
+api-version: '26.1'
+description: 白名单管理插件 - 支持Web控制台、申请表单和邮件通知
+author: MC615
+website: https://github.com/mc615/whitelistset
